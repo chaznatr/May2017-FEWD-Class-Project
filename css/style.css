@@ -45,6 +45,11 @@ a {
     text-decoration: none;
 }
 
+footer {
+    background-color: #333333;
+    color: #F2F2F2;
+}
+
 .red {
   color: #871719;
 }
